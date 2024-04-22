@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Akbank Mobile</string>
+
+
+    <!-- Akbank Logo Image Description -->
+    <string name="akbank_white_logo">Akbank Logo</string>
+
+    <!-- Login&Register-->
+    <string name="individual">Individual</string>
+    <string name="Institutional">Institutional</string>
+    <string name="good_morning">Good\nmorning</string>
+    <string name="good_day">Good\nday</string>
+    <string name="good_evening">Good\nevening</string>
+    <string name="good_night">Good\nnight</string>
+    <string name="individual_login">Login with Customer or TR ID Number</string>
+    <string name="Institutional_login">Sign In</string>
+    <string name="credit_card_info">Login with Credit Card Information</string>
+    <string name="credit_and_card_applications">Credit and Card\nApplications</string>
+    <string name="exchange">Exchange</string>
+    <string name="nearest_akbank">Nearest\nAkbank</string>
+    <string name="client_or_tr_id_no">Customer or TR ID Number</string>
+    <string name="akbank_password">Akbank Mobile Password</string>
+    <string name="six_digits_number">6 digits password</string>
+    <string name="forhet_your_client_number">Forgot your customer\nnumber?</string>
+    <string name="forget_password">Forget your\npassword?</string>
+    <string name="applications">Applications</string>
+    <string name="fast_credi_applications">Fast credit applications</string>
+    <string name="credit_card_applications">Credit Card Applications</string>
+    <string name="name_surname">Name Surname</string>
+
+    <string name="good_morningg">Good morning</string>
+    <string name="good_dayy">Good day</string>
+    <string name="good_eveningg">Good evening</string>
+    <string name="good_nightt">Good night</string>
+
+</resources>

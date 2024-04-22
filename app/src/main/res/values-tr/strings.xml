@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Akbank Mobil</string>
+
+
+    <!-- Akbank Logo Image Description -->
+    <string name="akbank_white_logo">Akbank Logo</string>
+
+    <!-- Login&Register-->
+    <string name="individual">Bireysel</string>
+    <string name="Institutional">Kurumsal</string>
+    <string name="good_morning">Günaydın</string>
+    <string name="good_day">İyi\ngünler</string>
+    <string name="good_evening">İyi\nakşamlar</string>
+    <string name="good_night">İyi\ngeceler</string>
+    <string name="individual_login">Müşteri veya TC Kimlik No  ile Giriş</string>
+    <string name="Institutional_login">Giriş</string>
+    <string name="credit_card_info">Kredi Kart Bilgisiyle Giriş Yap</string>
+    <string name="credit_and_card_applications">Kredi ve Kart\nBaşvuruları</string>
+    <string name="exchange">Döviz\nKurları</string>
+    <string name="nearest_akbank">En Yakın\nAkbank</string>
+    <string name="client_or_tr_id_no">Müşteri veya TC Kimlik Numarası</string>
+    <string name="akbank_password">Akbank Mobil Şifreniz</string>
+    <string name="six_digits_number">6 haneli şifreni gir</string>
+    <string name="forhet_your_client_number">Müşteri numaranı\nmı unuttun ?</string>
+    <string name="forget_password">Şifreni mi Unuttun?</string>
+    <string name="applications">Başvurular</string>
+    <string name="fast_credi_applications">Hızlı kredi başvurusu</string>
+    <string name="credit_card_applications">Kredi Kartı Başvurusu</string>
+    <string name="name_surname">İsim Soyisim</string>
+    <string name="good_morningg">Günaydın</string>
+    <string name="good_dayy">İyi günler</string>
+    <string name="good_eveningg">İyi akşamlar</string>
+    <string name="good_nightt">İyi geceler</string>
+
+</resources>
